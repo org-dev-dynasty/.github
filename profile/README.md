@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello friends!
+### This organization is the local where our group of students at IMT - Instituto Mauá de Tecnologia, are focused of resolve problems with tecnology solutions 💻🚀
 
 <!--
 
