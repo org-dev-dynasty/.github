@@ -5,7 +5,7 @@ Here I'll tell a little about our group, we are 5 students of IMT - Instituto Ma
 
 ## About us
 
-- Rodrigo Diana Siqueira - Backend Developer at PierX and at DevDynasty
+- Rodrigo Diana Siqueira - Backend Developer at PierX and at DevDynasty <br>
 <a href="https://www.linkedin.com/in/rodrigo-siqueira-76955822b/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/rodrigo_0.3" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
