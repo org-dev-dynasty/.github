@@ -7,7 +7,7 @@ Here I'll tell a little about our group, we are 5 students of IMT - Instituto Ma
 ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/100361837?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d
 )
 - Rodrigo Diana Siqueira - Backend Developer at PierX and at DevDynasty
-<a href="https://www.linkedin.com/in/rodrigo-siqueira-76955822b/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/rodrigo-siqueira-76955822b/" style="width: 100px; height: 100px;" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/rodrigo_0.3" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ![avatar](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/133619664?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d
